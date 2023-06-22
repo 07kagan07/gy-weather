@@ -25,4 +25,4 @@ Bu proje, aşağıdaki teknolojileri kullanmaktadır:
 Demo
 Projenin canlı demo versiyonuna aşağıdaki linkten ulaşabilirsiniz:
 
-[Demo Linki](https://gy-weather.vercel.app/))
+[Demo Linki](https://gy-weather.vercel.app/)
